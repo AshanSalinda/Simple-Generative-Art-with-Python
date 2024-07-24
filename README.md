@@ -20,4 +20,5 @@ To run this, it is required to
 
 
 ## Example Art
-![Example Art](https://github.com/user-attachments/assets/4800abad-6cb1-4d39-9f01-e1d68b6ef104)
+![Example Art](https://github.com/user-attachments/assets/82b9545f-9f0d-4c77-957f-b8c9683d612a)
+
